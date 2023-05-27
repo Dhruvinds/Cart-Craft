@@ -1,0 +1,8 @@
+.control,
+fieldset {
+  margin: 6px 0;
+}
+
+.required {
+  color: red;
+}

@@ -1,0 +1,407 @@
+info: 23-03-2022 15:56:11: 	info kishan 
+info: 23-Mar-2022 16:05:34: undefined 	info kishan 
+info: 23-Mar-2022 16:09:12: undefined 	 /api/categories/addCategories - POST - ::1
+info: 23-Mar-2022 16:11:39: undefined 	 /api/categories/addCategories - POST - ::1
+info: 23-Mar-2022 16:12:52: undefined 	 "add category" /api/categories/addCategories - POST - ::1
+info: 23-Mar-2022 16:15:03: 	 hyguihiuh -  /api/categories/addCategories - POST - ::1
+info: 23-Mar-2022 16:17:37: 	Category added successfully -  /api/categories/addCategories - POST - ::1
+{"level":"info","message":"\tCategory added successfully -  /api/categories/addCategories - POST - ::1","timestamp":"23-Mar-2022 16:20:05"}
+info: 23-Mar-2022 16:23:16: 	Category added successfully -  /api/categories/addCategories - POST - ::1
+info: 23-Mar-2022 16:24:04: 	Category added successfully -  /api/categories/addCategories - POST - ::1
+info: 23-Mar-2022 16:25:55: 	Category added successfully -  /api/categories/addCategories - POST - ::1
+info: 23-Mar-2022 16:26:16: 	Category updated successfully -  /api/categories/623afcbbe1103fac2a244b18 - PUT - ::1
+info: 23-Mar-2022 16:29:59: 	Category added successfully -  /api/categories/addCategories - POST - ::1
+info: 23-Mar-2022 16:30:06: 	Category deleted successfully -  /api/categories/623afdaf29babad8483bca7f - DELETE - ::1
+info: 23-Mar-2022 16:43:16: 	Category deleted successfully -  /api/subcategories/add - POST - ::1
+info: 23-Mar-2022 16:49:28: 	Category deleted successfully -  /api/subcategories/add - POST - ::1
+info: 24-Mar-2022 09:20:30: 	subcategory updated successfully -  /api/subcategories/623b023f74317c98c098df77 - PUT - ::1
+info: 24-Mar-2022 09:22:21: 	subcategory  Delete Successfully  -  /api/subcategories/delete/623b023f74317c98c098df77 - DELETE - ::1
+info: 24-Mar-2022 09:23:55: 	subcategory added successfully -  /api/subcategories/add - POST - ::1
+info: 24-Mar-2022 09:24:11: 	subcategory added successfully -  /api/subcategories/add - POST - ::1
+info: 24-Mar-2022 09:24:55: 	subcategory  Deletemany Successfully  -  /api/subcategories/deletemany/623beb53843892620626d34f,623beb63843892620626d35b - DELETE - ::1
+info: 24-Mar-2022 09:28:22: 	visit manufacture page  -  /api/manufacturers/all - GET - ::1
+info: 24-Mar-2022 09:30:09: 	visit all categories page  -  /api/categories/allCategories - GET - ::1
+info: 24-Mar-2022 09:30:19: 	visit all categories page  -  /api/categories/allCategories - GET - ::1
+info: 24-Mar-2022 09:30:19: 	visit subcategories page  -  /api/subcategories/all - GET - ::1
+info: 24-Mar-2022 09:35:11: 	visit manufacture page  -  /api/manufacturers/all - GET - ::1
+info: 24-Mar-2022 09:36:19: 	Manufacturer added successfully  -  /api/manufacturers/add - POST - ::1
+info: 24-Mar-2022 09:36:20: 	visit manufacture page  -  /api/manufacturers/all - GET - ::1
+info: 24-Mar-2022 09:37:21: 	Manufacturer Updated successfully  -  /api/manufacturers/623bee3b1b211e712d0bb350 - PUT - ::1
+info: 24-Mar-2022 09:37:21: 	visit manufacture page  -  /api/manufacturers/all - GET - ::1
+info: 24-Mar-2022 09:38:47: 	Manufacturer added successfully  -  /api/manufacturers/add - POST - ::1
+info: 24-Mar-2022 09:38:48: 	visit manufacture page  -  /api/manufacturers/all - GET - ::1
+info: 24-Mar-2022 09:39:34: 	Manufacturer added successfully  -  /api/manufacturers/add - POST - ::1
+info: 24-Mar-2022 09:39:35: 	visit manufacture page  -  /api/manufacturers/all - GET - ::1
+info: 24-Mar-2022 09:39:52: 	multipal Manifacturer Deleted  -  /api/manufacturers/623beefe1b211e712d0bb35b - DELETE - ::1
+info: 24-Mar-2022 09:39:53: 	visit manufacture page  -  /api/manufacturers/all - GET - ::1
+info: 24-Mar-2022 09:41:54: 	Manufacturer added successfully  -  /api/manufacturers/add - POST - ::1
+info: 24-Mar-2022 09:42:19: 	multipal Manifacturer Deleted  -  /api/manufacturers/623bee3b1b211e712d0bb350 - DELETE - ::1
+info: 24-Mar-2022 09:42:40: 	multipal Manifacturer Deleted  -  /api/manufacturers/623beecf1b211e712d0bb357,623bef8944e836e2fc8938a2 - DELETE - ::1
+info: 24-Mar-2022 09:50:40: 	visit all categories page  -  /api/categories/allCategories - GET - ::1
+info: 24-Mar-2022 09:50:40: 	visit subcategories page  -  /api/subcategories/all - GET - ::1
+info: 24-Mar-2022 09:55:41: 	visit all categories page  -  /api/categories/allCategories - GET - ::1
+info: 24-Mar-2022 09:55:41: 	visit subcategories page  -  /api/subcategories/all - GET - ::1
+info: 24-Mar-2022 09:57:25: 	product added Successfully  -  /api/products/add - POST - ::1
+info: 24-Mar-2022 10:00:25: 	product updated Successfully  -  /api/products/623bf32d3658d39bb68e0573 - PUT - ::1
+info: 24-Mar-2022 10:00:50: 	product deleted Successfully  -  /api/products/623bf32d3658d39bb68e0573 - DELETE - ::1
+info: 24-Mar-2022 10:01:49: 	visit all categories page  -  /api/categories/allCategories - GET - ::1
+info: 24-Mar-2022 10:01:49: 	visit subcategories page  -  /api/subcategories/all - GET - ::1
+info: 24-Mar-2022 10:03:18: 	product added Successfully  -  /api/products/add - POST - ::1
+info: 24-Mar-2022 10:03:21: 	visit all categories page  -  /api/categories/allCategories - GET - ::1
+info: 24-Mar-2022 10:03:22: 	visit subcategories page  -  /api/subcategories/all - GET - ::1
+info: 24-Mar-2022 10:04:18: 	product added Successfully  -  /api/products/add - POST - ::1
+info: 24-Mar-2022 10:06:39: 	maltipal product deleted Successfully  -  /api/products/deletemany/623bf48ee2e06582a4fa6453,623bf4cae2e06582a4fa6462 - DELETE - ::1
+info: 24-Mar-2022 10:10:56: 	User login Successfully  -  /api/users/login - POST - ::1
+info: 24-Mar-2022 10:31:48: 	User details Update Successfully  -  /api/users/profile - PUT - ::1
+info: 24-Mar-2022 10:32:24: 	Change Password Update Successfully  -  /api/users/changepassword - PUT - ::1
+info: 24-Mar-2022 14:07:52: 	visit subcategories page  -  /api/subcategories/all - GET - ::1
+info: 24-Mar-2022 14:07:52: 	visit all categories page  -  /api/categories/allCategories - GET - ::1
+info: 24-Mar-2022 14:08:17: 	visit all categories page  -  /api/categories/allCategories - GET - ::1
+info: 24-Mar-2022 14:12:35: 	visit all categories page  -  /api/categories/allCategories - GET - ::1
+info: 24-Mar-2022 14:12:56: 	Category added successfully -  /api/categories/addCategories - POST - ::1
+info: 24-Mar-2022 14:12:56: 	visit all categories page  -  /api/categories/allCategories - GET - ::1
+info: 24-Mar-2022 14:16:30: 	visit subcategories page  -  /api/subcategories/all - GET - ::1
+info: 24-Mar-2022 14:25:00: 	User register Successfully  -  /api/users/register - POST - ::1
+info: 24-Mar-2022 14:25:35: 	User login Successfully  -  /api/users/login - POST - ::1
+info: 24-Mar-2022 14:26:20: 	Mail send to User email  -  /api/users/forgetpassword - POST - ::1
+info: 24-Mar-2022 14:27:13: 	Password Successfully Updated  -  /api/users/resetpassword - PUT - ::1
+info: 24-Mar-2022 14:27:19: 	User login Successfully  -  /api/users/login - POST - ::1
+info: 25-Mar-2022 14:52:47: 	User visit  userprofile  -  /api/users/profile - GET - ::1
+info: 25-Mar-2022 14:53:21: 	Manufacturer updated successfully -kishan - admin -  /api/manufacturers/add - POST - ::1
+info: 25-Mar-2022 15:06:42: 	User login Successfully  - bhuvakishan476@gmail.com -  /api/users/login - POST - ::1
+info: 25-Mar-2022 15:11:58: 	User login Successfully  - bhuvakishan476@gmail.com -  /api/users/login - POST - ::1
+info: 25-Mar-2022 15:14:17: 	User login Successfully  - bhuvakishan476@gmail.com -  /api/users/login - POST - ::1
+info: 25-Mar-2022 15:14:49: 	User login Successfully  - bhuvakishan476@gmail.com -  /api/users/login - POST - ::1
+info: 25-Mar-2022 15:14:49: 	User visit  userprofile - kishan - /api/users/profile - GET - ::1
+info: 30-Mar-2022 09:32:34: 	User login Successfully  - dhruvinsorathiya6464@gmail.com -  /api/users/login - POST - ::1
+info: 30-Mar-2022 09:32:35: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 30-Mar-2022 09:39:50: 	User login Successfully  - dhruvinsorathiya6464@gmail.com -  /api/users/login - POST - ::1
+info: 30-Mar-2022 09:39:51: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 30-Mar-2022 21:22:43: 	User login Successfully  - Vivekk -  /api/users/login - POST - ::1
+info: 30-Mar-2022 21:23:01: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 30-Mar-2022 21:23:08: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 30-Mar-2022 21:23:20: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 30-Mar-2022 21:23:26: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 30-Mar-2022 21:23:55: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 30-Mar-2022 21:24:09: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 30-Mar-2022 21:24:21: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 09:32:24: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 09:32:29: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 09:32:39: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 09:33:27: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 09:33:30: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 09:33:37: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 09:33:42: 	Category deleted successfully -  /api/categories/623d95f448d651539ae124c4 - DELETE - ::1
+info: 31-Mar-2022 09:33:49: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 09:34:25: 	Subcategory added successfully -Vivekk - super admin -  /api/subcategories/add - POST - ::1
+info: 31-Mar-2022 09:34:28: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 09:36:08: 	Manufacture updated successfully -Vivekk - super admin -  /api/manufacturers/add - POST - ::1
+info: 31-Mar-2022 09:36:15: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 09:37:29: 	Subcategory added successfully -Vivekk - super admin -  /api/subcategories/add - POST - ::1
+info: 31-Mar-2022 09:37:36: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 09:42:58: 	Manufacture updated successfully -Vivekk - super admin -  /api/manufacturers/add - POST - ::1
+info: 31-Mar-2022 09:43:01: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 09:47:14: 	Product added Successfully  -Vivekk - super admin -  /api/products/add - POST - ::1
+info: 31-Mar-2022 09:47:14: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 09:51:50: 	Product added Successfully  -Vivekk - super admin -  /api/products/add - POST - ::1
+info: 31-Mar-2022 09:51:50: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 09:54:08: 	Product added Successfully  -Vivekk - super admin -  /api/products/add - POST - ::1
+info: 31-Mar-2022 09:54:09: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 09:54:19: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 09:54:40: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 09:54:50: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 09:54:52: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 09:55:12: 	Product updated Successfully  -Vivekk - super admin -  /api/products/62452ce8e3c2b9c852578bbe - PUT - ::1
+info: 31-Mar-2022 09:55:12: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 09:55:23: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 09:55:36: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 09:55:48: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 09:56:44: 	Product updated Successfully  -Vivekk - super admin -  /api/products/62452b4ae3c2b9c852578b98 - PUT - ::1
+info: 31-Mar-2022 09:56:44: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 09:59:38: 	Product added Successfully  -Vivekk - super admin -  /api/products/add - POST - ::1
+info: 31-Mar-2022 09:59:38: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 10:00:42: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 10:01:29: 	Manufacture updated successfully -Vivekk - super admin -  /api/manufacturers/add - POST - ::1
+info: 31-Mar-2022 10:01:33: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 10:04:23: 	Product added Successfully  -Vivekk - super admin -  /api/products/add - POST - ::1
+info: 31-Mar-2022 10:04:23: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 10:04:47: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 10:05:18: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:21:10: 	User login Successfully  - Dhruvin -  /api/users/login - POST - ::1
+info: 31-Mar-2022 14:21:17: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:21:22: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:21:26: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:21:45: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:22:11: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:22:44: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:39:05: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:39:22: 	User login Successfully  - Dhruvin -  /api/users/login - POST - ::1
+info: 31-Mar-2022 14:39:22: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:39:29: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:40:00: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:40:13: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:40:20: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:40:41: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:41:25: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:42:59: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:43:41: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:44:06: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:44:32: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:44:51: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:45:59: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:46:21: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:48:26: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:52:20: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:55:43: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:56:08: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:56:13: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:56:24: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:56:33: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:56:41: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:57:47: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 15:00:31: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 15:03:23: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 15:03:34: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 15:03:50: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 15:03:51: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 15:03:53: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 15:03:56: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 15:04:18: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 15:04:30: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 15:05:13: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 15:05:40: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 15:06:51: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 15:06:56: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 15:08:43: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 15:09:10: 	User visit  userprofile - Dhruvin - /api/users/profile - GET - ::1
+info: 31-Mar-2022 10:14:44: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 10:17:43: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 10:25:49: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 10:28:12: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 10:30:03: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 10:31:33: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 10:32:10: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 10:32:14: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 11:30:20: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 13:30:28: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 13:31:09: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 13:31:24: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 13:31:42: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 13:31:43: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 13:31:46: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 13:32:11: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 13:32:26: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 13:32:37: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 13:33:03: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 13:33:33: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 13:34:24: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 13:46:04: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 13:48:23: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 13:48:40: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 13:48:49: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:03:14: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:11:50: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:12:55: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:13:18: 	Product updated Successfully  -Vivekk - super admin -  /api/products/623d5f6bfab90ed90c06df07 - PUT - ::1
+info: 31-Mar-2022 14:13:18: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:14:53: 	Product updated Successfully  -Vivekk - super admin -  /api/products/623d611ffab90ed90c06df70 - PUT - ::1
+info: 31-Mar-2022 14:14:53: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:15:03: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:15:17: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:15:25: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:17:03: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:17:36: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:17:42: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:17:57: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:17:58: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:32:54: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:32:56: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:32:57: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:32:57: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:32:58: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:32:59: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:33:20: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:35:25: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:35:36: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:35:39: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:38:17: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:38:20: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 31-Mar-2022 13:50:19: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 13:50:47: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 13:51:01: 	User details Update Successfully  - Sahil /api/users/profile - PUT - ::1
+info: 31-Mar-2022 13:51:03: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 13:51:11: 	User details Update Successfully  - Sahil /api/users/profile - PUT - ::1
+info: 31-Mar-2022 13:51:11: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:06:07: 	User details Update Successfully  - Sahil /api/users/profile - PUT - ::1
+info: 31-Mar-2022 14:06:07: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:07:23: 	User details Update Successfully  - Sahil /api/users/profile - PUT - ::1
+info: 31-Mar-2022 14:07:23: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:07:27: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:07:36: 	User login Successfully  - Sahil -  /api/users/login - POST - ::1
+info: 31-Mar-2022 14:07:37: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:07:40: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:08:52: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:10:01: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:11:27: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:11:53: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:14:21: 	Product updated Successfully  -Sahil - super admin -  /api/products/623af8c87e289ff2d08ea601 - PUT - ::1
+info: 31-Mar-2022 14:14:22: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:14:33: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:14:55: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:17:46: 	Product updated Successfully  -Sahil - super admin -  /api/products/623af8c87e289ff2d08ea601 - PUT - ::1
+info: 31-Mar-2022 14:17:47: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:17:56: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:18:10: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:18:18: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:21:02: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:21:06: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:21:13: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:27:10: 	Manufacture updated successfully -Sahil - super admin -  /api/manufacturers/add - POST - ::1
+info: 31-Mar-2022 14:27:16: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:27:41: 	Product deleted Successfully  -  /api/products/623c2b1a980e99fbfbce6e51 - DELETE - ::1
+info: 31-Mar-2022 14:33:05: 	Product added Successfully  -Sahil - super admin -  /api/products/add - POST - ::1
+info: 31-Mar-2022 14:33:06: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:33:18: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:33:33: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:33:53: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:34:07: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:34:13: 	Product deleted Successfully  -  /api/products/623c2a33980e99fbfbce6e0e - DELETE - ::1
+info: 31-Mar-2022 14:34:28: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:34:33: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:34:46: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:34:58: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:35:05: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:37:41: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:37:46: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:37:56: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:38:03: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:38:36: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:38:43: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:38:48: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:44:22: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:46:30: 	Product updated Successfully  -Sahil - super admin -  /api/products/623d611ffab90ed90c06df70 - PUT - ::1
+info: 31-Mar-2022 14:46:31: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:47:11: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:48:21: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 14:48:39: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 16:43:36: 	User visit  userprofile - Himanshu - /api/users/profile - GET - ::1
+info: 31-Mar-2022 16:44:14: 	User visit  userprofile - Himanshu - /api/users/profile - GET - ::ffff:127.0.0.1
+info: 31-Mar-2022 16:45:15: 	User visit  userprofile - Himanshu - /api/users/profile - GET - ::1
+info: 31-Mar-2022 16:46:41: 	Product added Successfully  -Himanshu - super admin -  /api/products/add - POST - ::1
+info: 31-Mar-2022 16:46:41: 	User visit  userprofile - Himanshu - /api/users/profile - GET - ::1
+info: 31-Mar-2022 16:47:58: 	Product added Successfully  -Himanshu - super admin -  /api/products/add - POST - ::1
+info: 31-Mar-2022 16:47:58: 	User visit  userprofile - Himanshu - /api/users/profile - GET - ::1
+info: 31-Mar-2022 16:49:02: 	Product deleted Successfully  -  /api/products/62458de56fbefe73f9042878 - DELETE - ::1
+info: 31-Mar-2022 16:49:05: 	Product deleted Successfully  -  /api/products/62458d999eb1a5850879316d - DELETE - ::1
+info: 31-Mar-2022 16:49:10: 	Product deleted Successfully  -  /api/products/624582062a5fab756ad72e5e - DELETE - ::1
+info: 31-Mar-2022 16:49:32: 	User visit  userprofile - Himanshu - /api/users/profile - GET - ::1
+info: 31-Mar-2022 16:49:59: 	Product added Successfully  -Himanshu - super admin -  /api/products/add - POST - ::1
+info: 31-Mar-2022 16:49:59: 	User visit  userprofile - Himanshu - /api/users/profile - GET - ::1
+info: 31-Mar-2022 17:02:44: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 17:03:22: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 31-Mar-2022 17:03:39: 	User visit  userprofile - Sahil - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:23:32: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:24:53: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:25:17: 	Product updated Successfully  -SAGAR - super admin -  /api/products/623d5f6bfab90ed90c06df07 - PUT - ::1
+info: 01-Apr-2022 09:25:18: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:25:26: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:25:29: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:35:01: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:35:02: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:35:31: 	Product updated Successfully  -SAGAR - super admin -  /api/products/623d5f6bfab90ed90c06df07 - PUT - ::1
+info: 01-Apr-2022 09:35:31: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:36:18: 	Product updated Successfully  -SAGAR - super admin -  /api/products/623d5f6bfab90ed90c06df07 - PUT - ::1
+info: 01-Apr-2022 09:36:19: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:38:14: 	Product updated Successfully  -SAGAR - super admin -  /api/products/623d5f6bfab90ed90c06df07 - PUT - ::1
+info: 01-Apr-2022 09:38:15: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:39:33: 	Product updated Successfully  -SAGAR - super admin -  /api/products/623d5f6bfab90ed90c06df07 - PUT - ::1
+info: 01-Apr-2022 09:39:33: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:40:24: 	Product updated Successfully  -SAGAR - super admin -  /api/products/623d5f6bfab90ed90c06df07 - PUT - ::1
+info: 01-Apr-2022 09:40:24: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:40:42: 	Product updated Successfully  -SAGAR - super admin -  /api/products/623d5f6bfab90ed90c06df07 - PUT - ::1
+info: 01-Apr-2022 09:40:42: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:41:31: 	Product updated Successfully  -SAGAR - super admin -  /api/products/623d5f6bfab90ed90c06df07 - PUT - ::1
+info: 01-Apr-2022 09:41:31: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 08:49:20: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 01-Apr-2022 08:49:49: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:10:09: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:10:13: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:10:16: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:10:32: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:10:39: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:12:00: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:13:39: 	Product added Successfully  -Vivekk - super admin -  /api/products/add - POST - ::1
+info: 01-Apr-2022 09:13:40: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:13:50: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:14:06: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:15:22: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:15:25: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:15:39: 	Product updated Successfully  -Vivekk - super admin -  /api/products/624674eb7e3fb06c9d57cf1a - PUT - ::1
+info: 01-Apr-2022 09:15:40: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:15:52: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:16:19: 	Subcategory added successfully -Vivekk - super admin -  /api/subcategories/add - POST - ::1
+info: 01-Apr-2022 09:16:23: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:18:21: 	Product added Successfully  -Vivekk - super admin -  /api/products/add - POST - ::1
+info: 01-Apr-2022 09:18:22: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:22:21: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:23:56: 	Manufacture updated successfully -Vivekk - super admin -  /api/manufacturers/add - POST - ::1
+info: 01-Apr-2022 09:23:59: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:26:00: 	Product added Successfully  -Vivekk - super admin -  /api/products/add - POST - ::1
+info: 01-Apr-2022 09:26:01: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:26:10: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 01-Apr-2022 09:26:46: 	User visit  userprofile - Vivekk - /api/users/profile - GET - ::1
+info: 01-Apr-2022 13:46:35: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 13:47:09: 	Product updated Successfully  -SAGAR - super admin -  /api/products/6246b3b5d014767f761091e1 - PUT - ::1
+info: 01-Apr-2022 13:47:10: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 13:47:31: 	Product updated Successfully  -SAGAR - super admin -  /api/products/6246b3b5d014767f761091e1 - PUT - ::1
+info: 01-Apr-2022 13:47:31: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 15:12:10: 	Product updated Successfully  -SAGAR - admin -  /api/products/623d611ffab90ed90c06df70 - PUT - ::1
+info: 01-Apr-2022 15:12:10: 	Product updated Successfully  -SAGAR - admin -  /api/products/623d611ffab90ed90c06df70 - PUT - ::1
+info: 01-Apr-2022 15:12:20: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 15:12:25: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 16:08:30: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 16:11:12: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 16:11:13: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 16:11:56: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 16:12:01: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 16:12:28: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 16:14:43: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 17:31:11: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 17:31:27: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 01-Apr-2022 17:49:37: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 02-Apr-2022 09:08:49: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 02-Apr-2022 09:22:30: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 02-Apr-2022 09:22:44: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 02-Apr-2022 09:22:48: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 02-Apr-2022 09:26:16: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 02-Apr-2022 09:26:23: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 02-Apr-2022 09:26:51: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 02-Apr-2022 09:27:07: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 02-Apr-2022 09:27:44: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 02-Apr-2022 09:28:22: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 02-Apr-2022 09:31:51: 	User visit  userprofile - SAGAR - /api/users/profile - GET - ::1
+info: 05-Apr-2022 22:16:31: 	User visit  userprofile - vivek - /api/users/profile - GET - ::1
+info: 05-Apr-2022 22:17:43: 	User visit  userprofile - vivek - /api/users/profile - GET - ::1
+info: 05-Apr-2022 22:18:30: 	User visit  userprofile - vivek - /api/users/profile - GET - ::1
+info: 05-Apr-2022 22:38:36: 	User visit  userprofile - vivek - /api/users/profile - GET - ::1
+info: 05-Apr-2022 22:39:03: 	User visit  userprofile - vivek - /api/users/profile - GET - ::1
+info: 06-Apr-2022 13:53:47: 	User visit  userprofile - vivek - /api/users/profile - GET - ::1
+info: 06-Apr-2022 13:54:37: 	User visit  userprofile - vivek - /api/users/profile - GET - ::1
+info: 06-Apr-2022 14:42:54: 	User visit  userprofile - vivek - /api/users/profile - GET - ::1
+info: 06-Apr-2022 14:44:55: 	User visit  userprofile - vivek - /api/users/profile - GET - ::1
+info: 06-Apr-2022 14:53:58: 	User visit  userprofile - vivek - /api/users/profile - GET - ::1
+info: 12-Apr-2022 15:43:25: 	Subcategory updated successfully -vivek - super admin -  /api/subcategories/6239b833505c1be3123fdb93 - PUT - ::1
+info: 14-Apr-2022 09:45:19: 	Product updated Successfully  -vivek - super admin -  /api/products/623d5f6bfab90ed90c06df07 - PUT - ::1
+info: 14-Apr-2022 09:48:35: 	Product updated Successfully  -vivek - super admin -  /api/products/623d5f6bfab90ed90c06df07 - PUT - ::1
+info: 14-Apr-2022 09:49:40: 	Product updated Successfully  -vivek - super admin -  /api/products/623d5f6bfab90ed90c06df07 - PUT - ::1
+info: 14-Apr-2022 10:06:32: 	Subcategory updated successfully -vivek - super admin -  /api/subcategories/6239b833505c1be3123fdb93 - PUT - ::1
+info: 14-Apr-2022 10:06:39: 	Subcategory updated successfully -vivek - super admin -  /api/subcategories/623aacbb1098ea137d808675 - PUT - ::1
+info: 14-Apr-2022 10:06:49: 	Subcategory updated successfully -vivek - super admin -  /api/subcategories/623aff3af04d57b6bd3d648e - PUT - ::1
+info: 14-Apr-2022 10:06:59: 	Subcategory updated successfully -vivek - super admin -  /api/subcategories/623c40ffe85f7bbdf76cbbbe - PUT - ::1
+info: 14-Apr-2022 10:07:11: 	Subcategory updated successfully -vivek - super admin -  /api/subcategories/62452849e3c2b9c852578b5b - PUT - ::1
+info: 14-Apr-2022 10:07:19: 	Subcategory updated successfully -vivek - super admin -  /api/subcategories/62452901e3c2b9c852578b78 - PUT - ::1
+info: 14-Apr-2022 10:08:18: 	Subcategory added successfully -vivek - super admin -  /api/subcategories/add - POST - ::1
+info: 14-Apr-2022 10:11:02: 	Product added Successfully  -vivek - super admin -  /api/products/add - POST - ::1
+info: 14-Apr-2022 10:14:27: 	Product added Successfully  -vivek - super admin -  /api/products/add - POST - ::1
+info: 14-Apr-2022 10:17:34: 	Manufacture updated successfully -vivek - super admin -  /api/manufacturers/add - POST - ::1
+info: 14-Apr-2022 10:20:02: 	Product added Successfully  -vivek - super admin -  /api/products/add - POST - ::1

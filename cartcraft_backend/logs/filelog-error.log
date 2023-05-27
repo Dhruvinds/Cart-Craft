@@ -1,0 +1,33 @@
+error: Mar-23-2022 15:52:23: 	401 ||"User with this email address already exists" - /api/users/register - POST - ::1
+error: Mar-23-2022 15:57:14: 	401 ||"User with this email address already exists" - /api/users/register - POST - ::1
+error: Mar-23-2022 16:23:09: 	401 ||"Invalid Credentials" - /api/users/login - POST - ::1
+error: Mar-24-2022 11:01:52: 	400 ||"Subcategory already exist in this Category!" - /api/subcategories/add - POST - ::1
+error: Mar-24-2022 11:04:30: 	400 ||"Category already exist!" - /api/categories/addCategories - POST - ::1
+error: Mar-24-2022 11:09:27: 	400 ||"You can't delete Subcategory because it associated with products" - /api/subcategories/delete/6239b833505c1be3123fdb93 - DELETE - ::1
+error: Mar-24-2022 13:54:01: 	400 ||"You can't delete Subcategory because it associated with products" - /api/subcategories/delete/6232c03b263151ed4d2d76e3 - DELETE - ::1
+error: Mar-24-2022 13:55:37: 	400 ||"You can't delete Subcategory because it associated with products" - /api/subcategories/delete/6232c03b263151ed4d2d76e3 - DELETE - ::1
+error: Mar-24-2022 13:58:14: 	401 ||"Invalid Credentials" - /api/users/login - POST - ::1
+error: Mar-24-2022 14:00:54: 	401 ||"Invalid Credentials" - /api/users/login - POST - ::1
+error: Mar-24-2022 14:02:53: 	401 ||"Invalid Credentials" - /api/users/login - POST - ::1
+error: Mar-24-2022 14:28:38: 	401 ||"Invalid Credentials" - /api/users/login - POST - ::1
+error: Mar-25-2022 13:53:07: 	400 ||"Category already exist!" - /api/categories/addCategories - POST - ::1
+error: Mar-25-2022 13:54:03: 	400 ||"Category already exist!" - Dhruvin - [object Object] - /api/categories/addCategories - POST - ::1
+error: Mar-25-2022 13:54:42: 	400 ||"Category already exist!" - Dhruvin - admin - /api/categories/addCategories - POST - ::1
+error: Mar-25-2022 14:45:29: 	400 ||"Category already exist!" - Himanshu - super admin - /api/categories/addCategories - POST - ::1
+error: Mar-30-2022 09:28:56: 	401 ||"Not Authorized , Token failed" - /api/users/profile - GET - ::1
+error: Mar-30-2022 09:29:04: 	401 ||"Not Authorized , Token failed" - /api/users/profile - GET - ::1
+error: Mar-30-2022 09:34:42: 	401 ||"Invalid Credentials" - dhruvinsorathiya6464@gmail.com - /api/users/login - POST - ::1
+error: Mar-30-2022 09:35:20: 	401 ||"Invalid Credentials" - Dhruvin - /api/users/login - POST - ::1
+error: Mar-30-2022 09:39:19: 	401 ||"Invalid Credentials" - Dhruvin - /api/users/login - POST - ::1
+error: Mar-30-2022 21:19:53: 	401 ||"Not Authorized , Token failed" - /api/users/profile - GET - ::1
+error: Mar-30-2022 21:20:29: 	401 ||"Not Authorized , Token failed" - /api/users/profile - GET - ::1
+error: Mar-30-2022 21:20:57: 	401 ||"Not Authorized , Token failed" - /api/users/profile - GET - ::1
+error: Mar-30-2022 21:21:11: 	401 ||"Not Authorized , Token failed" - /api/users/profile - GET - ::1
+error: Mar-30-2022 21:21:18: 	401 ||"Not Authorized , Token failed" - /api/users/profile - GET - ::1
+error: Apr-01-2022 09:11:37: 	400 ||"Manufacture already exist!" - Vivekk - super admin - /api/manufacturers/add - POST - ::1
+error: Apr-06-2022 15:05:44: 	401 ||"Not Authorized , Token failed" - /api/users/profile - GET - ::1
+error: Apr-06-2022 15:05:48: 	401 ||"Not Authorized , Token failed" - /api/users/profile - GET - ::1
+error: Apr-07-2022 14:34:06: 	401 ||"Not Authorized , No Token" - /api/orders/myorders - GET - ::ffff:127.0.0.1
+error: Apr-12-2022 15:39:32: 	400 ||"You can't delete Subcategory because it associated with products" - /api/subcategories/delete/6232c03b263151ed4d2d76e3 - DELETE - ::1
+error: Apr-12-2022 15:39:41: 	400 ||"You can't delete Subcategory because it associated with products" - /api/subcategories/delete/6232c03b263151ed4d2d76e3 - DELETE - ::1
+error: Apr-12-2022 15:41:49: 	400 ||"You can't delete Subcategory because it associated with products" - /api/subcategories/delete/6232c03b263151ed4d2d76e3 - DELETE - ::1

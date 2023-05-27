@@ -1,0 +1,19 @@
+body {
+  /* background-color: yellowgreen; */
+  margin: 0;
+  padding: 0;
+}
+
+.col-md-4 {
+  margin-top: 2%;
+  height: 78vh;
+  border-radius: 12px;
+}
+
+.computer {
+  margin-top: 13%;
+  padding-left: 22%;
+}
+.signup {
+  width: 90%;
+}
